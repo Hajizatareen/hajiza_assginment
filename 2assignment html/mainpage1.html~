@@ -1,0 +1,138 @@
+<html>
+<head>
+<title>RA</title>
+<style type="text/css">
+body { text-align:center; margin:0px auto; }
+*
+{
+margin:1px;
+padding:1px;	
+}
+#number1
+{
+	margin: -12px -5px;	
+background:hsla(129,10%,68%,55) ;
+height: 30px;
+top: auto;
+right: 0;
+left: 0;
+}
+#number2
+{
+	margin: 40px 40px;	
+background:hsla(129,10%,40%,55) ;
+height: 90px;
+top: auto;
+right: 0;
+left: 0;
+}
+#number3
+{
+	margin: -5px -5px;	
+background:hsla(129,10%,68%,55) ;
+height: 30px;
+top: auto;
+right: 0;
+left: 0;
+}
+
+#page02 {
+margin:0px auto;
+	margin:170px;
+margin-left: 280px;
+	background:hsla(129,10%,68%,55);
+	height:600px;	
+	width:950px; 
+	text-align:left;
+	
+	
+	
+	}
+	#logo  {
+	margin:0px auto;
+	margin-left: 730px;
+	height: 150px;
+	width: 250px;
+	float: right;
+	position:absolute;
+		}
+	#name {
+  font-size: 50px;
+  height:50px;
+  width:400px;
+  font-family: "Franklin Gothic Heavy";
+  color:hsla(0,0%,10%,1.00);
+  margin-top:-60px;
+  z-index: 1;
+}
+#text {
+margin:0px auto;	
+  font-size: 20px;
+  
+	margin-left: 0px;
+  height:800px;
+  width:800px;
+  float:left;
+  position:absolute;
+}
+#link {
+	
+ margin:400px auto;
+	
+	height: 40px;
+	width: 1050px;
+	float: left;
+	position:absolute;
+  
+}
+#text1link {
+margin:0px auto;
+	margin-left: -270px;	
+  font-size: 20px;
+  background:hsla(129,10%,68%,55);
+  height:600px;
+  width:250px;
+  float:left;
+  position:absolute;
+}
+</style>
+</head>
+<body   bgcolor="#98F"> 
+
+<center>
+<div  id="number1">
+</div>
+<div  id="number2"><p><big><big><big><big><font color="#89f">Welcome TO My Home Page</font></big></big></big></big></p></div>
+
+<div  id="number3">
+</div><br></center>
+<big><big><big><font color="#23F">Welcome...................!</font></big></big></big>
+<center>
+<div  id="page02">
+<div id="name">
+<h4><font color="blue"><u>ABDUL&nbspRAHAMAN&nbspTAREEN</u></font></h4>
+</div>
+<center>
+<div id="text1link" style="border-radius: 500px;"> <p><br><br><br><h3><font color="#71E"><big><u>Select Eny Opations</big></u></font></h3><br>
+1.&nbsp&nbsp<a href="mainpage1.html">  Wellcome My Home page</a><br><br>
+2.&nbsp&nbsp<a href="CURRICULUM VITA.html">  CURRICULUM VITA</a><br><br>
+3.&nbsp&nbsp<a href="table.html">  TABLE</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br>
+4.&nbsp&nbsp<a href="textbox.html">  TEXTBOX</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br></p></div>
+</center>
+<div id="text">
+<p><font color="black">
+<br>My Name is Abdul Rahaman. I am from ziarat .I am leving in ziarat.<br><br> know I am  student of Balochistan. I  study in master degree.I study a<br> <br>  MCS.MCS is the best degree  because  every person want to a  MCS <br> <br> degree.There are alatap of subjects in MCS. I likes computer filed. I want to <br> <br> a web designer. Every programming I like it. My fevert<font color="green"> LANGUAGES ( JAVA<br> <br>  PROGRAMMING, C# ,C, C++.</font> I  am a programmer of JAVA and I have built a<font color="green"><br> <br>  SOFTWARE in  (JAVA PROGRAMMING) </font>language.
+</font></p>
+
+
+
+</div>
+<div id="logo">
+<img src="rhaman.png" height="220" width="220" style="
+	border-radius: 500px;"> 
+</div>
+</div>
+<div id="pageBottom"> </div>
+</center>
+</body>
+</html>
